@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="com.masai.bean.Bus"/>
+    <fullyQualifiedTypeName name="com.masai.exceptions.BusException"/>
+    <fullyQualifiedTypeName name="com.masai.exceptions.CustomerException"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.masai.color.ConsoleColors"/>
+    <fullyQualifiedTypeName name="com.masai.dao.AdminDaoImpl"/>
+    <fullyQualifiedTypeName name="com.masai.dao.AdminDao"/>
+    <fullyQualifiedTypeName name="com.masai.bean.Customer"/>
+    <fullyQualifiedTypeName name="com.masai.dao.CustomerDaoImpl"/>
+    <fullyQualifiedTypeName name="com.masai.dao.CustomerDao"/>
+    <fullyQualifiedTypeName name="com.masai.usecases.CusLoginusecase"/>
+    <fullyQualifiedTypeName name="com.masai.usecases.AdminLoginusecase"/>
+    <fullyQualifiedTypeName name="com.masai.usecases.AddBus2usecase"/>
+    <fullyQualifiedTypeName name="com.masai.usecases.UpdateStatususecase"/>
+    <fullyQualifiedTypeName name="com.masai.usecases.ViewAllTicketsusecase"/>
+    <fullyQualifiedTypeName name="com.masai.usecases.CusSignUp2usecase"/>
+    <fullyQualifiedTypeName name="com.masai.usecases.BookTicketbNameusecase"/>
+    <fullyQualifiedTypeName name="com.masai.usecases.CancelTicketbNameusecase"/>
+    <fullyQualifiedTypeName name="com.masai.usecases.ViewTicketusecase"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="com.masai.utility.DButil"/>
+</qualifiedTypeNameHistroy>
