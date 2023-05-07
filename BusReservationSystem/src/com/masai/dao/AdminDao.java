@@ -5,7 +5,11 @@ import com.masai.bean.Bus;
 public interface AdminDao {
 public final String username = "Admin";
 	
+<<<<<<< HEAD
 	public final String password = "1234";
+=======
+	public final String password = "12345";
+>>>>>>> f19039f501b165c5e7da55a9f7a2873b29d78386
 
 	public String adminLogin(String username, String password);
 
@@ -16,5 +20,9 @@ public final String username = "Admin";
 	
 	public String updateStatus(int cusId);
 	
+<<<<<<< HEAD
+=======
+	public void viewAllTickets();
+>>>>>>> f19039f501b165c5e7da55a9f7a2873b29d78386
 
 }

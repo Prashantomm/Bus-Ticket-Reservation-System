@@ -22,7 +22,13 @@ public class Main {
 						 						   + "| 2. Login As Customer      |" + "\n"
 						 						   + "| 3. Exit                   |" + "\n"
 						 						   + "+---------------------------+" + ConsoleColors.RESET);
+<<<<<<< HEAD
 		System.out.print(ConsoleColors.TEAL + "Please Enter Your Choice : ");
+=======
+		System.out.print(ConsoleColors.TEAL+ "Enter Your Choice : "
+				   + ConsoleColors.RESET);
+		
+>>>>>>> f19039f501b165c5e7da55a9f7a2873b29d78386
 		choice();
 	}
 	
@@ -75,7 +81,12 @@ public class Main {
 						 + "| 4. Back                        |" + "\n"
 						 + "| 5. Exit                        |" + "\n"
 						 + "+--------------------------------+" + ConsoleColors.RESET);
+<<<<<<< HEAD
 		System.out.print(ConsoleColors.TEAL + "Please Enter Your Choice : ");
+=======
+		System.out.print(ConsoleColors.TEAL+ "Enter Your Choice : "
+				   + ConsoleColors.RESET);
+>>>>>>> f19039f501b165c5e7da55a9f7a2873b29d78386
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -129,7 +140,10 @@ public class Main {
 				                                + "| 3. Back                        |" + "\n"
 				                                + "| 4. Exit                        |" + "\n"
 				                                + "+--------------------------------+" + ConsoleColors.RESET);
+<<<<<<< HEAD
 		System.out.print(ConsoleColors.TEAL + "Please Enter Your Choice : ");
+=======
+>>>>>>> f19039f501b165c5e7da55a9f7a2873b29d78386
 		try {
 			Scanner sc = new Scanner(System.in);
 			int choice = sc.nextInt();
@@ -185,14 +199,23 @@ public class Main {
 	}
 	
 	static void customerMethods(Customer customer) {
+<<<<<<< HEAD
 		System.out.println(ConsoleColors.PURPLE + "+--------------------------------+" + "\n"
+=======
+		System.out.println(ConsoleColors.GREEN + "+--------------------------------+" + "\n"
+>>>>>>> f19039f501b165c5e7da55a9f7a2873b29d78386
 				 		 + "| 1. Book Bus Ticket             |" + "\n"
 				         + "| 2. Cancel Bus Ticket           |" + "\n"
 				         + "| 3. View Status of your Tickets |" + "\n"
 				         + "| 4. Back                        |" + "\n"
 				         + "| 5. Exit                        |" + "\n"
 				         + "+--------------------------------+" + ConsoleColors.RESET);
+<<<<<<< HEAD
 		System.out.print(ConsoleColors.TEAL + "Please Enter Your Choice : ");
+=======
+		System.out.print(ConsoleColors.TEAL+ "Enter Your Choice : "
+				   + ConsoleColors.RESET);
+>>>>>>> f19039f501b165c5e7da55a9f7a2873b29d78386
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -245,6 +268,10 @@ public class Main {
 		AdminOrCustomer();
 				
 	}	
+<<<<<<< HEAD
 
+=======
+	
+>>>>>>> f19039f501b165c5e7da55a9f7a2873b29d78386
 
 }

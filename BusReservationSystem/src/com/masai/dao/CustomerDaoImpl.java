@@ -12,7 +12,12 @@ import com.masai.exceptions.BusException;
 import com.masai.exceptions.CustomerException;
 import com.masai.utility.DButil;
 
+<<<<<<< HEAD
 public class CustomerDaoImpl implements CustomerDao {
+=======
+public class CustomerDaoImpl implements CustomerDao{
+
+>>>>>>> f19039f501b165c5e7da55a9f7a2873b29d78386
 	@Override
 	public String cusSignUp(String username, String password, String firstName, String lastName, String address,
 			String mobile) {
@@ -289,5 +294,9 @@ public class CustomerDaoImpl implements CustomerDao {
 		}
 		
 	}
+<<<<<<< HEAD
+=======
+	
+>>>>>>> f19039f501b165c5e7da55a9f7a2873b29d78386
 
 }

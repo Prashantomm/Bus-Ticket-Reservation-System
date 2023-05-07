@@ -9,7 +9,11 @@ import com.masai.bean.Bus;
 import com.masai.color.ConsoleColors;
 import com.masai.utility.DButil;
 
+<<<<<<< HEAD
 public class AdminDaoImpl implements AdminDao {
+=======
+public class AdminDaoImpl implements AdminDao{
+>>>>>>> f19039f501b165c5e7da55a9f7a2873b29d78386
 	@Override
 	public String adminLogin(String username, String password) {
 		
@@ -103,6 +107,10 @@ public class AdminDaoImpl implements AdminDao {
 		return message;
 	}
 
+<<<<<<< HEAD
+=======
+	@Override
+>>>>>>> f19039f501b165c5e7da55a9f7a2873b29d78386
 	public void viewAllTickets() {
 		boolean flag = false;
 		
@@ -131,5 +139,9 @@ public class AdminDaoImpl implements AdminDao {
 		}
 		
 	}
+<<<<<<< HEAD
+=======
+	
+>>>>>>> f19039f501b165c5e7da55a9f7a2873b29d78386
 
 }
