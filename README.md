@@ -84,5 +84,5 @@ User can go back to the previous option
 - [Linkedin]()
 # Contributor
 #### Prashant Upadhyay
->[GitHub](https://github.com/mayurisamanta)
+>[GitHub](https://github.com/Prashantomm)
 
