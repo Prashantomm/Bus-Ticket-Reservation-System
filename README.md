@@ -81,7 +81,7 @@ User can go back to the previous option
 > You can reach out to me via below medium.
 
 - [Email](prashantupadhyayjpl@gmail.com)
-- [Linkedin]()
+- [Linkedin](https://www.linkedin.com/in/prashant-upadhyay-77a18b237/)
 # Contributor
 #### Prashant Upadhyay
 >[GitHub](https://github.com/Prashantomm)
