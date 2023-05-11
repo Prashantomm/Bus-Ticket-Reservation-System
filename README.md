@@ -1,5 +1,5 @@
 # plucky-scent-2586
-<img src="https://user-images.githubusercontent.com/112774297/236652168-cb30dbb6-1034-457f-be0b-cdad58838eb3.png" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/112774297/236652168-cb30dbb6-1034-457f-be0b-cdad58838eb3.png" width="200" height="200">
  
 
 <!-- ![admin](https://github.com/Prashantomm/plucky-scent-2586/assets/112774297/deb30969-87e6-4463-b533-bec918d97c53)
