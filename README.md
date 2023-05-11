@@ -17,7 +17,7 @@
 
 
 
-# 👉 [Click here](https://drive.google.com/file/d/1jlyVHpzDhLKQOJf6ulayLUYJ4bejyv5B/view?usp=sharing) to go through detail explanation of this application 
+# 👉 [Click here] to go through detail explanation of this application 
 
 # Features
 
