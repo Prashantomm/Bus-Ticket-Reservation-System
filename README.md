@@ -17,7 +17,7 @@
 
 
 
-# 👉 [Click here] to go through detail explanation of this application 
+# 👉 [Click here](https://drive.google.com/file/d/1c7ORoZkIzOF_QbLrMEMDn1Nzp6083JsD/view?usp=share_link) to go through detail explanation of this application 
 
 # Features
 
@@ -47,7 +47,7 @@
 
 ![ERdiagram](https://github.com/Prashantomm/plucky-scent-2586/assets/112774297/eefdca7a-39fb-4800-8d1a-99057b930401)
 
-## *Administrator Login* 
+## *Admin Login* 
 Admin can login by using username (Admin) and password (1234)
 </br>
 <img src="https://github.com/Prashantomm/plucky-scent-2586/assets/112774297/deb30969-87e6-4463-b533-bec918d97c53" width="400" height="400">
@@ -62,7 +62,7 @@ Customer can login with earlier provided username and password
 <img src="https://github.com/Prashantomm/plucky-scent-2586/assets/112774297/22368990-9629-465c-a434-1d0991c11d0c" width="400" height="400">
 
 
-## *Back Functionality* 
+## *Backend Functionality* 
 User can go back to the previous option
 </br>
 <img src="https://github.com/Prashantomm/plucky-scent-2586/assets/112774297/a4cad5be-ba45-473e-9f8f-20b00d0cdafa" width="400" height="400">
