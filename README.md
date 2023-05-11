@@ -44,12 +44,7 @@
 
 # Overview of my work
 
-## *ER Diagram*
-Customer and Bus has many to many relationship
-</br>
-Booking table as linking between Customer and Bus
-</br>
-![Er diagram](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/ProjectDetails/ER%20diagram/ERdiagram.png?raw=true)
+
 
 ## *Administrator Login* 
 Admin can login by using username (Admin) and password (1234)
