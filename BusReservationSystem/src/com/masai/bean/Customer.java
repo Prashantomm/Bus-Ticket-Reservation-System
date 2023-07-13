@@ -1,4 +1,5 @@
-package com.masai.bean;......
+package com.masai.bean;.......
+
 
 public class Customer {
 private int cusId;
